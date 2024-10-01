@@ -1,1 +1,4 @@
-# elisa3_cluster_pc
+# elisa-3 cluster pc-side
+This is a terminal application exchanging data with the robots from the computer through the radio base-station. The demo uses the information gathered from the robots (in cluster status) and update their RGB LEDs accordingly with a random color at fixed intervals. The demo was tested with 37 robots but more robots can be added to the list.<br/>
+The project depends on the [Elisa-3 remote library](http://www.gctronic.com/doc/index.php/Elisa-3#Elisa-3_library).<br/>
+For more information refer to the wiki [Elisa-3 Clustering example](https://www.gctronic.com/doc/index.php?title=Elisa-3#Clustering_example).

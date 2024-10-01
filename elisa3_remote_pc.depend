@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1727687563 source:e:\gctronic\elisa-3\elisa3_cluster_remote_example\main.c
+	<stdio.h>
+	<sys/types.h>
+	<time.h>
+	"elisa3-lib.h"
+	"windows.h"
+
+1727416069 e:\gctronic\elisa-3\elisa3_remote_library\elisa3-lib.h
+	<stdio.h>
+	<sys/types.h>
+	<math.h>
+	<unistd.h>
+	"usb-comm.h"
+
+1722242154 e:\gctronic\elisa-3\elisa3_remote_library\usb-comm.h
+	<stdio.h>
+
